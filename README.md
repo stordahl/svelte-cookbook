@@ -1,4 +1,4 @@
-# Svelte Cookbook
+# 🔪 Svelte Cookbook
 
 A community built resource, for productive Svelte Development
 
